@@ -5,3 +5,5 @@ check this file for git!
 login branch
 
 This branch is for login module.
+
+This branch is for logout module.
