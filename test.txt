@@ -1,12 +1,3 @@
 check this file for git!
 
 #Command for GIT..
-
-hello
-
-<<<<<<< HEAD
-
-login branch
-=======
-logout
->>>>>>> logout
