@@ -4,5 +4,9 @@ check this file for git!
 
 hello
 
+<<<<<<< HEAD
 
 login branch
+=======
+logout
+>>>>>>> logout
