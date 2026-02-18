@@ -1,3 +1,9 @@
 check this file for git!
 
 #Command for GIT..
+<<<<<<< HEAD
+=======
+login branch
+
+This branch is for login module.
+>>>>>>> login
